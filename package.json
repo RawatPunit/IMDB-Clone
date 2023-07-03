@@ -1,0 +1,12 @@
+{
+  "name": "imdb-clone-main",
+  "version": "1.0.0",
+  "description": "IMBD_CLONE",
+  "main": "script.js",
+  "scripts": {
+    "start": "script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Punit",
+  "license": "ISC"
+}
